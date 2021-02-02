@@ -1,4 +1,4 @@
-# vue3-docs-fr-translation-advancement
+# The purpose of this repo
 
 This repository is to track the advancement of Vue 3 documentation french translation.
 
